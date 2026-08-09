@@ -63,7 +63,7 @@ The binary prediction task achieved its best reported performance using **Hist G
 * Matplotlib
 * Seaborn
 
-## 🚀 Installation
+## Installation
 
 ```bash
 git clone https://github.com/your-username/liver-disease-prediction.git
